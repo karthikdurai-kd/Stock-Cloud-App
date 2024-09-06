@@ -39,12 +39,6 @@ The Inventory Management System is a full-stack application designed to provide 
 
 ## Getting Started
 
-### Prerequisites
-
-- **Node.js** (version X.X.X or higher)
-- **PostgreSQL** (version X.X or higher)
-- **AWS Account** (for deployment)
-
 ### Installation
 
 1. **Clone the repository**:

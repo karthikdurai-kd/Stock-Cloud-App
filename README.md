@@ -76,22 +76,3 @@ The Inventory Management System is a full-stack application designed to provide 
    cd server
    npm run dev
    ```
-
-### Deployment
-
-#### Backend
-
-- **AWS EC2**: The backend is hosted using EC2 instances.
-- **AWS RDS**: The PostgreSQL database is hosted using Amazon RDS.
-
-#### Frontend
-
-- **AWS Amplify**: The frontend is hosted using AWS Amplify.
-
-#### Image Storage
-
-- **AWS S3**: Product images uploaded through the app are stored in Amazon S3.
-
-#### API Gateway
-
-- **AWS API Gateway**: Interaction between the frontend and backend is managed via AWS API Gateway.

@@ -1,8 +1,8 @@
-# Inventory Management System
+# Stock Cloud App
 
 ## Overview
 
-The Inventory Management System is a full-stack application designed to provide a comprehensive dashboard for managing products, sales, expenses, and customer information in real-time. Built with Next.js on the frontend, Node.js with ExpressJS on the backend, and PostgreSQL as the database, it leverages AWS for deployment and scaling.
+The Stock Cloud App is a full-stack application designed to provide a comprehensive dashboard for managing products, sales, expenses, and customer information in real-time. Built with Next.js on the frontend, Node.js with ExpressJS on the backend, and PostgreSQL as the database, it leverages AWS for deployment and scaling.
 
 ## Features
 

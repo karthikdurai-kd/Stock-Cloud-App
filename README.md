@@ -1,10 +1,10 @@
-# Stock Cloud App
+# ☁️📊 Stock Cloud App
 
-## Overview
+## 🌟 Overview
 
 The Stock Cloud App is a full-stack application designed to provide a comprehensive dashboard for managing products, sales, expenses, and customer information in real-time. Built with Next.js on the frontend, Node.js with ExpressJS on the backend, and PostgreSQL as the database, it leverages AWS for deployment and scaling.
 
-## Features
+## 📦 Features
 
 - **Comprehensive Dashboard**: Detailed information on popular products, sales summary, purchase summary, expense summary, customer & expenses, dues & pending orders, and sales & discounts.
 - **Real-Time Product Updates**: Add new products and get real-time updates across the app.
@@ -12,9 +12,9 @@ The Stock Cloud App is a full-stack application designed to provide a comprehens
 - **Inventory List Management**: Easily view and manage product inventory in real-time.
 - **Sales & Expense Tracking**: Summarize sales, purchases, and expenses to give insights into profit margins.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend
 
 - **Next.js**: Used for building the user interface.
 - **Redux Toolkit**: Manages application state.
@@ -23,13 +23,13 @@ The Stock Cloud App is a full-stack application designed to provide a comprehens
 - **Recharts**: Used for displaying charts.
 - **MaterialUI**: Provides components for displaying tables.
 
-### Backend
+### ⚙️ Backend
 
 - **Node.js** with **ExpressJS**: Framework used for the backend.
 - **Prisma**: ORM for interacting with the PostgreSQL database.
 - **PostgreSQL**: Database used for storing data.
 
-### Deployment (AWS)
+### ☁️ Deployment (AWS)
 
 - **AWS EC2**: Backend hosted using EC2 instances
 - **AWS RDS**: PostgreSQL database hosted using Amazon RDS
@@ -37,7 +37,7 @@ The Stock Cloud App is a full-stack application designed to provide a comprehens
 - **AWS S3**: Image storage using Amazon S3
 - **AWS API Gateway**: Facilitates interaction between the frontend and backend services
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Installation
 
